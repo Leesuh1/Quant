@@ -25,7 +25,7 @@
 
 👉 [모두의 ETF 바로가기](https://github.com/Leesuh1/portfolio-rebalancer)
 
-![모두의 ETF](./랜딩페이지.png)
+![모두의 ETF](./assets/랜딩페이지.png)
 
 
 Open in Colab
